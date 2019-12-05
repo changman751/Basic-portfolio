@@ -4,7 +4,7 @@ margin: auto;
 }
 body {
 background-image: url("../images/herringbone.png");
-margin:0; /*gets rid of white space around body*/
+margin:0; /
 margin-top:16px;
 position:relative; 
 }
@@ -36,6 +36,7 @@ div.about{
    
    position: relative;
    float: left;
+
 }
 
 div.portfolio {
@@ -142,7 +143,7 @@ padding: 14px 16px;
 text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
 background-color: #111;
 }
